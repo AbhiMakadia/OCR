@@ -1,2 +1,2 @@
 # OCR
-Working with Text Recognition with VisionKit
+Working on Text Recognition with VisionKit
